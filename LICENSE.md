@@ -1,4 +1,4 @@
-# 
+# smart liquidation sniper bot Strategy | API-integration + position-sizing offers the most advanced liquidation sniper bot, with API-integration and position-sizing. Ideal for
 
 
 
